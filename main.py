@@ -6,7 +6,7 @@ from langchain_teddynote.prompts import load_prompt
 from dotenv import load_dotenv
 import glob
 
-# API KEY 정보로드
+# API KEY 정보로드 - 테스트
 load_dotenv()
 
 st.title("나만의 챗GPT💬")
